@@ -15,8 +15,8 @@
 		30683A7719453A1800DEDED1 /* MasterTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30683A7619453A1800DEDED1 /* MasterTableViewCell.swift */; };
 		307124FA1946D19A005CFA9E /* top_dvds.png in Resources */ = {isa = PBXBuildFile; fileRef = 307124F91946D19A005CFA9E /* top_dvds.png */; };
 		307124FC1946D1D2005CFA9E /* box_office.png in Resources */ = {isa = PBXBuildFile; fileRef = 307124FB1946D1D2005CFA9E /* box_office.png */; };
+		30A5FF0019480C0100394B79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30A5FEFF19480C0100394B79 /* Main.storyboard */; };
 		30E16F181945603C000D2DE2 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30E16F171945603C000D2DE2 /* Movie.swift */; };
-		30E16F1B19457C33000D2DE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30E16F1A19457C33000D2DE2 /* Main.storyboard */; };
 		6BA13EC4BB234F12845318F2 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17F24E42220E43CFB25C90DC /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -45,8 +45,8 @@
 		30683A7619453A1800DEDED1 /* MasterTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterTableViewCell.swift; sourceTree = "<group>"; };
 		307124F91946D19A005CFA9E /* top_dvds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top_dvds.png; sourceTree = "<group>"; };
 		307124FB1946D1D2005CFA9E /* box_office.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = box_office.png; sourceTree = "<group>"; };
+		30A5FEFF19480C0100394B79 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		30E16F171945603C000D2DE2 /* Movie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
-		30E16F1A19457C33000D2DE2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
 		E9DA3ABFD8F0430C89E617FD /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,7 +100,7 @@
 				30683A27194228BE00DEDED1 /* Images.xcassets */,
 				307124F91946D19A005CFA9E /* top_dvds.png */,
 				307124FB1946D1D2005CFA9E /* box_office.png */,
-				30E16F1A19457C33000D2DE2 /* Main.storyboard */,
+				30A5FEFF19480C0100394B79 /* Main.storyboard */,
 				30683A1C194228BE00DEDED1 /* Supporting Files */,
 			);
 			path = MovieApp;
@@ -249,7 +249,7 @@
 				30683A28194228BE00DEDED1 /* Images.xcassets in Resources */,
 				307124FA1946D19A005CFA9E /* top_dvds.png in Resources */,
 				307124FC1946D1D2005CFA9E /* box_office.png in Resources */,
-				30E16F1B19457C33000D2DE2 /* Main.storyboard in Resources */,
+				30A5FF0019480C0100394B79 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
