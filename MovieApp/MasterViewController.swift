@@ -104,7 +104,7 @@ class MasterViewController: UITableViewController {
 
     override func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         if UIDevice.currentDevice().userInterfaceIdiom == .Pad {
-            let object = objects[indexPath.row] as NSDate
+            let object = objects[indexPath.row] as Movie
             self.detailViewController!.detailItem = object
         }
     }
