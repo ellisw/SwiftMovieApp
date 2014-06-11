@@ -13,4 +13,4 @@ This is an iOS 8 appliation using Storyboards and SWIFT for displaying the lates
   * Required: User sees error message when there's a networking error.
   * Required: User can pull to refresh the movie list.
 
-![alt tag] (https://github.com/ellisw/SwiftMovieApp/blob/master/SwiftMovieAppDemo.gif)
+![alt tag] (https://raw.githubusercontent.com/ellisw/SwiftMovieApp/master/SwiftMovieAppDemo.gif)
